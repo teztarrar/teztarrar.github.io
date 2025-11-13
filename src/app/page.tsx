@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight, Linkedin, Github, Mail, Shield, Server, Network, Code, Award, GraduationCap, Briefcase, BookOpen, Terminal, Lock, Users, Download, FileText, Zap, Target, TrendingUp, Globe, Clock, CheckCircle2, Star } from "lucide-react";
+import { ArrowUpRight, Linkedin, Github, Mail, Shield, Server, Network, Code, Award, GraduationCap, BookOpen, Terminal, Lock, Users, Download, FileText, Zap, Target, TrendingUp, Globe, Clock, CheckCircle2, Star } from "lucide-react";
 import { useEffect, useRef, useMemo } from "react";
 import { motion } from "framer-motion";
 import { gsap } from "gsap";
