@@ -46,8 +46,8 @@ const spectral = Spectral({
 });
 
 export const metadata: Metadata = {
-  title: "Bentolio - Kush Sharma",
-  description: "Building stunning web applications with Next.js and React.",
+  title: "Vishu Dev Singh - Technical Support Executive | Cybersecurity Professional",
+  description: "IT professional with hands-on experience in technical support, cybersecurity, and networking. Specialized in MS 365, Azure EDR/XDR, Linux administration, and system security.",
 };
 
 export default function RootLayout({
